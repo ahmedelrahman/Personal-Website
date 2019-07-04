@@ -1,0 +1,29 @@
+body 
+{
+    background:turquoise;
+    font-family: arial;
+}
+
+h1, h2, li
+{
+    color:maroon;
+}
+
+#list_of_items
+{
+    background: red;
+    color:white;
+}
+
+p
+{
+    background:#666;
+    color:white;
+    padding: 10px;
+}
+
+.paragraph_special_styling
+{
+    background: none;
+    color:black;
+}
